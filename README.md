@@ -1,2 +1,2 @@
-# agroscan
-Offline mobile app for checking farmland suitability using remote sensing &amp; GPS
+# AgroScan  
+Offline mobile app for checking farmland suitability using remote sensing & GPS.
